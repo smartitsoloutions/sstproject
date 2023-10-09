@@ -1,2 +1,4 @@
-hello world this is robo:
 welcoem to smart it soloutions
+
+Offering courses
+             AWS AZURE DEVOPS
